@@ -5,7 +5,7 @@
 
 ## About Project
 Let's say you own a big company with a very large parking lot (presumably) and you would like to identify employee vehicles entering both in and out of the garage. 
-The first thing that should come to mind is using a *camera* to capture footage of these cars going through the gate, or you could choose the intellectual option, ehm... and purchase a License Plate detection Camera, which is unironically enough, the best possible solution for this problem.
+The first thing that should come to mind is using a *camera* to capture footage of these cars going through the gate, or you could choose the intellectual option, ehm... and purchase a License Plate detection Camera, which is unsurprisingly, the best possible solution for this problem.
 
                                     
 Now, machine learning in python has allowed me to make a device that can sense when a car is near and turn on a camera, which processes the captured image (of the
