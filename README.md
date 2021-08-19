@@ -34,6 +34,9 @@ The installation process goes the same for both PC and Raspberry PI, with a few 
 ## 💡 Setup
 **Connect the pins as such**![Distance-Sensor-Fritz](https://user-images.githubusercontent.com/73076057/130138629-15da5e84-b81e-402f-988d-feedf4035a4e.png)
 ![IMG_8360](https://user-images.githubusercontent.com/73076057/130138787-7685f5ff-9496-4cf4-a432-13eb5bad516c.jpg)
+The camera should be set on a 60 degree angle above the wall for proper reading results. *image attached below*
+![Camera](https://user-images.githubusercontent.com/73076057/130151109-495c0751-7d25-47fe-9fb6-b9621f553992.jpg)
+
 
 ## 👨‍💻 Programming
 Attached to this Repo: you can find the file **Trigger.py**, which is the backbone of this device, considering it measures the distance using the distance sensor
