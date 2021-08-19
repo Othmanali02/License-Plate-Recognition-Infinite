@@ -1,8 +1,8 @@
-# AUTOMATIC LICENSE PLATE RECOGNITION USING PYTHON!
+# AUTOMATIC LICENSE PLATE RECOGNITION USING PYTHON AND RASPBERRY PI
 
 ![infinite](https://user-images.githubusercontent.com/73076057/130128647-5599ebfe-bea6-4b64-a501-c7fa32128bbd.png)
 ![GitHub all releases](https://img.shields.io/github/downloads/Othm01100001n/License-Plate-Recognition-Garage-Guardian-/total)                                                                         ![Twitter Follow](https://img.shields.io/twitter/follow/othmanali02?style=social)                                                                  ![GitHub last commit](https://img.shields.io/github/last-commit/Othm01100001n/License-Plate-Recognition-Garage-Guardian-)
-## About Project:
+## About Project
 Let's say you own a big company with a very large parking lot (presumably), and you want to know exactly which employee's cars entered and which went out. 
 First thing that should come to mind is using a *camera* to detect these cars going through the gate, or you could choose the intellectual option, ehm... and purchase a License
 Plate detection Camera, which is unironically the best possible solution for this problem.
@@ -23,6 +23,7 @@ vehicle) and sends an email to the client with the taken image of the car, a tex
 - One 1k ohm Resistor                
                   
 ## Installation
-`pip3 install python==3.7`
+- Download and install python from the official website, preferablly python 3.7 or later https://www.python.org/downloads/release/python-370/
+- 
 
                
