@@ -13,9 +13,9 @@ vehicle at a certain degree and angle) and sends an email to the client with the
 
 
 ## 🧬 Material
-- Raspberry PI 
+- Raspberry PI 3 B+
 - PI-Camera(or any good quality camera)
-- Python 3.7.2
+- Python 3.7.3
 - a good old breadbord
 - Ultra-sonic sensor
 - Jumper Wires
