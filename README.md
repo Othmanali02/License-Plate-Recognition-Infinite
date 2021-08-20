@@ -9,7 +9,7 @@ The first thing that should come to mind is using a *camera* to capture footage 
 
                                     
 Now, machine learning in python has allowed me to make a device that can sense when a car is near and turn on a camera, which processes the captured image (of the
-vehicle at a certain degree and angle) and sends an email to the client with the taken image of the car, a text with the license plate number, and a cropped image of the license plate. 
+vehicle at a certain angle) and sends an email to the client with the taken image of the car, a text with the license plate number, and a cropped image of the license plate. 
 
 
 ## 🧬 Material
