@@ -96,6 +96,8 @@ SMTP_PORT = 587 #don't change this number
 GMAIL_USERNAME = 'yourprojectsemail@gmail.com'
 GMAIL_PASSWORD = 'yourprojects'email'ssecretpassword'
 ```
+![Screenshot 2021-08git104935](https://user-images.githubusercontent.com/73076057/130200074-73373ed3-7d08-4010-b832-35ae88c58e53.png)
+
 ## Support
 This project is **FREE** and completely open source, I hope you found this useful and helpful. 
 If you would like to support me for my future projects or chat, you can buy me a coffee here https://www.buymeacoffee.com/othmanali02
