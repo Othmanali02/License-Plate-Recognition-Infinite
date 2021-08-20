@@ -16,7 +16,7 @@ vehicle at a certain angle) and sends an email to the client with the taken imag
 - Raspberry PI 3 B+
 - PI-Camera(or any good quality camera)
 - Python 3.7.3
-- a good old breadbord
+- a good old Breadboard
 - Ultra-sonic sensor
 - Jumper Wires
 - One 1.5k ohm Resistor
