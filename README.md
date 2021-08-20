@@ -1,6 +1,6 @@
 # AUTOMATIC LICENSE PLATE RECOGNITION USING PYTHON AND RASPBERRY PI
 
-![infinite](https://user-images.githubusercontent.com/73076057/130128647-5599ebfe-bea6-4b64-a501-c7fa32128bbd.png)
+![github1](https://user-images.githubusercontent.com/73076057/130198019-782b3b50-0049-408d-9244-cceee79ca85b.png)
 ![GitHub all releases](https://img.shields.io/github/downloads/Othm01100001n/License-Plate-Recognition-Garage-Guardian-/total)                                                                         ![Twitter Follow](https://img.shields.io/twitter/follow/othmanali02?style=social)                                                                  ![GitHub last commit](https://img.shields.io/github/last-commit/Othm01100001n/License-Plate-Recognition-Garage-Guardian-)
 
 ## About Project
@@ -99,3 +99,5 @@ GMAIL_PASSWORD = 'yourprojects'email'ssecretpassword'
 ## Support
 This project is **FREE** and completely open source, I hope you found this useful and helpful. 
 If you would like to support me for my future projects or chat, you can buy me a coffee here https://www.buymeacoffee.com/othmanali02
+![infinite](https://user-images.githubusercontent.com/73076057/130128647-5599ebfe-bea6-4b64-a501-c7fa32128bbd.png)
+
