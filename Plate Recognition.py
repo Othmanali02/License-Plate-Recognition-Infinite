@@ -77,8 +77,8 @@ SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587 #don't change this number
 
 #Gmail username and password for the Email account you choose to be associated with your project, you have to enable less secure apps in order for it to work
-GMAIL_USERNAME = 'garageguardian2021@gmail.com'
-GMAIL_PASSWORD = '1234$4321'
+GMAIL_USERNAME = 'yourprojectsemail@gmail.com'
+GMAIL_PASSWORD = 'yourprojectemailpassword'
 
 today = date.today()
 t = time.localtime()
@@ -110,10 +110,12 @@ class Emailer:
         session.quit
 
 sender = Emailer()
-image1 = 'IMG_7.jpg'
+image1 = 'image.jpg'
 image2 = 'cropped_image.jpg'
 sendTo = "othman90hijawi@gmail.com"
-emailSubject = "Garage Guardian Report"
+emailSubject = "Infinite Security Report"
 emailContent = (f"{today}\n{current_time}\nThe Vehicle with the license plate:\n{result}\n\n*image attached below*\n\nis in front of the gate...\n\n\n- Engineered by Othman Ali")
 sender.sendmail(sendTo, emailSubject, emailContent, image1, image2)
 print("Email Sent")
+
+#All rights go to my name and Repository
