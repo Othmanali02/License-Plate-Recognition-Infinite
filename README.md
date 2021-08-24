@@ -100,6 +100,6 @@ GMAIL_PASSWORD = 'yourprojects'email'ssecretpassword'
 
 ## Support
 This project is **FREE** and completely open source, I hope you found this useful and helpful. 
-If you would like to support me for my future projects or chat, you can buy me a coffee here https://www.buymeacoffee.com/othmanali02
+I'm accepting any questions regarding this project, you can shoot me an email or send me a message on GitHub :)
 ![infinite](https://user-images.githubusercontent.com/73076057/130128647-5599ebfe-bea6-4b64-a501-c7fa32128bbd.png)
 
